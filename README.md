@@ -4,6 +4,10 @@ One day, four parks, four rides, and Mickey waiting in front of Cinderella
 Castle. An Atari 2600 style side-scroller set at Walt Disney World, running
 entirely inside your terminal.
 
+<p align="center">
+<img width="688" height="572" alt="park_hopper" src="https://github.com/user-attachments/assets/75475756-83d8-491c-8cbe-5a71c83b7d17" />
+<p>
+
 ```bash
 ./play.sh
 ```
